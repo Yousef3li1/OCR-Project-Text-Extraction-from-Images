@@ -301,9 +301,6 @@ flake8 src/
 black src/
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -312,11 +309,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **TensorFlow Team** for deep learning framework
 - **Contributors** who helped improve this project
 
-## 📞 Support
-
-- 📧 **Email:** your.email@example.com
-- 🐛 **Issues:** [GitHub Issues](https://github.com/yourusername/ocr-project/issues)
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/yourusername/ocr-project/discussions)
 
 ---
 
